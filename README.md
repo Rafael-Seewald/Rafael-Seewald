@@ -39,6 +39,6 @@ Moro no Rio Grande do Sul
           <a href="https://www.instagram.com/vinyyboy_seewald/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
           <a href="https://web.whatsapp.com/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
           <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlLWMTMvmHCFvsqmRDSQcJLLhXBGjbsDNrQmCbDvHJPXQlWCJfbsHctcZGXWCLNdTkqFGV"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
-          <a href="https://rafael-seewald.github.io/Portfolio/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></img></a>
+          <a href="https://rafael-seewald.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></img></a>
      </footer>
 </div>
