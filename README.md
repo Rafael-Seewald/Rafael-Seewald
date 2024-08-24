@@ -1,6 +1,6 @@
 
 <div align="center">
-     <img src="./gifbanner.gif" height="380" ></img>
+     <img src="./gifbanner.gif" height="280" ></img>
 </div>
 
 <h1> - Olá! Eu sou o Rafael Seewald 👋 </h1>
