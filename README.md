@@ -1,6 +1,9 @@
-<h2> Olá! Eu sou o Rafael Seewald 👋 </h2>
 
-<img src="./banner/gif.gif"></img>
+<div align="center">
+     <img src="./gifbanner.gif" height="600" width="1000"></img>
+</div>
+
+<h1> <- Olá! Eu sou o Rafael Seewald 👋 </h1>
 <br>
 <div align="center">
      <h2>Tecnologias</h1>
