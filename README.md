@@ -8,27 +8,27 @@
 <div align="center">
      <h2>Tecnologias</h1>
      <h1>
-          <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" /> |
-          <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55" /> |
-          <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55" /> |
-          <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="55" /> |
-          <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="55" /> |
-          <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="55" /> |
+          <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" />&nbsp;
+          <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55" />&nbsp;
+          <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55" />&nbsp;
+          <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="55" />&nbsp;
+          <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="55" />&nbsp;
+          <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="55" />&nbsp;
      </h1>
 </div> 
 <br>
 
-## Sobre mim:
-
-- Atualmente procurando emprego remoto com foco em python
-- Amor por programar e aprender mais sobre programação 
-- Cursei diversos cursos de desenvolvedores
-- Atualmente no primeiro ano da faculdade de Análise e Desenvolvimento de Sistemas
-- Codando e aprendendo desde 2023 nessa área
-- Atualmente estudando Django, e reforçando outros conhecimentos
-- Utilizo nos meus scripts meu conhecimento de:
-     - pandas, tkinter, pyautogui, selenium, flask e a base de python
- 
+## ❤️ Sobre mim:
+<h3>
+<li> 🖥️ Atualmente procurando emprego com foco em python</li>
+<li> 🤖 Amor por programar e aprender mais sobre programação</li>
+<li> 🥱 Cursei diversos cursos de desenvolvedores</li>
+<li> 🧑🏻‍🎓 Atualmente no primeiro ano da faculdade de Análise e Desenvolvimento de Sistemas</li>
+<li> 😄 Codando e aprendendo desde 2023 nessa área</li>
+<li> 📚 Atualmente estudando Django, e reforçando outros conhecimentos</li>
+<li> 🧠 Utilizo nos meus scripts meu conhecimento de:</li>
+     <li> pandas, tkinter, pyautogui, selenium, flask e a base de python</li>
+</h3> 
 Moro no Rio Grande do Sul
 <br>
 
