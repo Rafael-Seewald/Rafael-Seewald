@@ -36,7 +36,7 @@ Moro no Rio Grande do Sul
      <footer>
           <h2> Contato </h2>
           <a href="https://www.linkedin.com/in/rafael-vin%C3%ADcius-seewald-2341432b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-          <a href="https://www.instagram.com/vinyyboy_seewald/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+          <a href="https://www.instagram.com/vinyy_seewald/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
           <a href="https://web.whatsapp.com/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
           <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlLWMTMvmHCFvsqmRDSQcJLLhXBGjbsDNrQmCbDvHJPXQlWCJfbsHctcZGXWCLNdTkqFGV"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
           <a href="https://rafael-seewald.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></img></a>
