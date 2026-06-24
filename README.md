@@ -20,14 +20,14 @@
 
 ## ❤️ Sobre mim:
 <h3>
-<li> 🖥️ Atualmente procurando emprego com foco em python</li>
-<li> 🤖 Amor por programar e aprender mais sobre programação</li>
-<li> 🥱 Cursei diversos cursos de desenvolvedores</li>
-<li> 🧑🏻‍🎓 Atualmente no primeiro ano da faculdade de Análise e Desenvolvimento de Sistemas</li>
+<li> 🖥️ Atualmente procurando emprego remoto como desenvolvedor</li>
+<li> 🤖 Amor ao programar e aprender mais sobre o ramo</li>
+<li> 🥱 Cursei alguns cursos de desenvolvedores</li>
+<li> 🧑🏻‍🎓 Atualmente no 3 ano da faculdade de Análise e Desenvolvimento de Sistemas</li>
 <li> 😄 Codando e aprendendo desde 2023 nessa área</li>
-<li> 📚 Atualmente estudando Django, e reforçando outros conhecimentos</li>
-<li> 🧠 Utilizo nos meus scripts meu conhecimento de:</li>
-     <li> pandas, tkinter, pyautogui, selenium, flask e a base de python</li>
+<li> 📚 Atualmente estudando Java, e reforçando outros conhecimentos</li>
+<li> 🧠 Utilizo nos meus scripts conhecimento de:</li>
+     <li> pandas, tkinter, pyautogui, selenium, flask, base de python, base de js e react, java, sql, apis e spring</li>
 </h3> 
 Moro no Rio Grande do Sul
 <br>
